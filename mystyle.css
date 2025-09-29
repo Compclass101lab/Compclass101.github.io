@@ -1,0 +1,23 @@
+/* Apply background color to the whole page */
+body {
+  background-color: lightyellow;
+  font-family: Arial, sans-serif;
+}
+
+/* Make all paragraphs blue */
+p {
+  color: blue;
+  font-size: 18px;
+}
+
+/* Make the main heading red */
+h1 {
+  color: red;
+  text-align: center;
+}
+
+/* Extra styling just for fun */
+img {
+  border: 3px solid black;
+  border-radius: 20px;
+  margin-top: 20px;
